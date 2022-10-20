@@ -28,9 +28,7 @@ const App = () => (
             <h1 className="header">Welcome To React-Bootstrap</h1>
             <ExampleToast>
                 We now have Toasts
-                <span role="img" aria-label="tada">
-          🎉
-        </span>
+                <span role="img" aria-label="tada"> 🎉</span>
             </ExampleToast>
         </Container>
     </Container>
